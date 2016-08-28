@@ -3,10 +3,11 @@
 ####################
 # Control an Aviosys IP9528 IP PDU from Indigo
 # V1.1	4 November 2012
-# Copyright (c) 2012, Nick Smith. All rights reserved
+# Copyright (c) 2012, Nick Smith
+# MIT licence - refer to licence.txt
 #
 # Based on example code from Indigo SDK v1.02
-# Copyright (c) 2012, Perceptive Automation, LLC. All rights reserved.
+# Copyright (c) 2012, Perceptive Automation, LLC.
 # http://www.perceptiveautomation.com
 
 # V1.1: added code to keep connection alive to improve response time
