@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+
+<Devices>
+	<!-- This device inherits Indigo's relay
+	device behavior including on/off states, relay actions (on/off/toggle),
+	and will support Indigo and Indigo Touch's native UI for relay type
+	devices.
+	-->
+	<Device type="relay" id="ip9258">
+		<Name>Aviosys IP9258 PDU</Name>
+		<ConfigUI>
+			<SupportURL>http://www.nickandmeryl.com/software/IP9258.html</SupportURL>
+			<Field id="autoLabel" type="label" >
+				<Label>Enter the configuration details of your IP9258 PDU:</Label>
+			</Field>
+			<Field id="model" type="menu" defaultValue="IP9258" >
+				<Label>Power strip model</Label>
+				<List>
+					<Option value="IP9258">IP9258</Option>
+					<Option value="IP9255">IP9255</Option>
+					<Option value="IP9255Pro">IP9255 Pro</Option>
+				</List>
+			</Field>
+			<Field id="ipAddr" type="textfield" defaultValue="192.168.1.100">
+				<Label>IP Address:</Label>
+			</Field>
+			<Field id="userName" type="textfield" defaultValue="admin">
+				<Label>User Name:</Label>
+			</Field>
+			<Field id="password" type="textfield" defaultValue="12345678">
+				<Label>Password:</Label>
+			</Field>
+			<Field id="outlet" type="textfield" defaultValue="1">
+				<Label>PDU Outlet:</Label>
+			</Field>
+			<Field id="logChanges" type="checkbox" defaultValue="false">
+				<Label>Log normal results:</Label>
+			</Field>
+		</ConfigUI>
+	</Device>
+</Devices>
