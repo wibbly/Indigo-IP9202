@@ -1,4 +1,4 @@
-# IP9258
+# Indigo-IP9258
 [Indigo] (http://www.perceptiveautomation.com/indigo/index.html) plugin to control the [Aviosys IP9258] (http://www.aviosys.com/9258st.html) IP Power Distribution Unit (PDU)
 
 ##Requirements
