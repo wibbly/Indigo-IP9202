@@ -7,7 +7,7 @@
 
 ##Installation Instructions
 
-1. Download latest release here
+1. Download latest release [here] (https://github.com/smudger4/Indigo-IP9258/releases)
 2. Follow [standard plugin installation process] (http://bit.ly/1e1Vc7b)
 
 ##Actions Supported
