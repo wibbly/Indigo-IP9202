@@ -9,7 +9,7 @@
 	<Device type="relay" id="ip9258">
 		<Name>Aviosys IP9258 PDU</Name>
 		<ConfigUI>
-			<SupportURL>http://www.nickandmeryl.com/software/IP9258.html</SupportURL>
+			<SupportURL>https://nickandmeryl.uk/software/ip9258/</SupportURL>
 			<Field id="autoLabel" type="label" >
 				<Label>Enter the configuration details of your IP9258 PDU:</Label>
 			</Field>

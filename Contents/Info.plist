@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>PluginVersion</key>
-	<string>1.1c</string>
+	<string>1.1.3</string>
 	<key>ServerApiVersion</key>
 	<string>1.2</string>
 	<key>CFBundleDisplayName</key>
@@ -16,7 +16,7 @@
 	<array>
 		<dict>
 			<key>CFBundleURLName</key>
-			<string>http://www.nickandmeryl.com/software/IP9258.html</string>
+			<string>https://nickandmeryl.uk/software/ip9258/</string>
 		</dict>
 	</array>
 </dict>
