@@ -1,5 +1,10 @@
-# Indigo-IP9258
-[Indigo] (http://www.perceptiveautomation.com/indigo/index.html) plugin to control the [Aviosys IP9258] (http://www.aviosys.com/9258st.html) IP Power Distribution Unit (PDU)
+
+#*This is a forked repository with no work yet completed!*
+
+# Indigo-IP9202
+
+
+[Indigo] (http://www.perceptiveautomation.com/indigo/index.html) plugin to control the [Aviosys IP9202] (http://www.aviosys.com/) IP relay board.
 
 ##Requirements
 
@@ -7,7 +12,7 @@
 
 ##Installation Instructions
 
-1. Download latest release [here] (https://github.com/smudger4/Indigo-IP9258/releases)
+1. Download latest release [here] ()
 2. Follow [standard plugin installation process] (http://bit.ly/1e1Vc7b)
 
 ##Actions Supported
